@@ -3,8 +3,8 @@
 **
 **  Pinos Utilizados
 **  PA0 = clock do 4017
-**	PB0 = seg a, PB1 = seg b, PB2 = seg c, PB3 = seg d, PB4 = seg e, PB5 = seg f, PB6 = seg g
-**	PC0 = reset do 4017
+**  PB0 = seg a, PB1 = seg b, PB2 = seg c, PB3 = seg d, PB4 = seg e, PB5 = seg f, PB6 = seg g
+**  PC0 = reset do 4017
 **===========================================================================
 */
 
@@ -29,7 +29,6 @@
 #define cathode_F                    ((uint32_t)0X071)
 
 #define TEMPO_TROCA 200
-
 
 /* Private macro */
 /* Private variables */
